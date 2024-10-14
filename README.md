@@ -7,13 +7,19 @@ Welcome to the **BrinX AI** Relay and Worker Node setup guide! Follow these simp
 
 ![image](https://github.com/user-attachments/assets/14d02543-5279-415e-9833-8ed87a90c841)
 
-Minimum Requirements:
+Here’s a README section for "Minimum Requirements":
 
-▫️ CPU: 8 VCPU Cores
-▫️ Memory: 16GB RAM
-▫️ Storage: 300GB SSD
-▫️ GPU: Optional (A GPU can significantly boost performance and earnings)
-▫️ Port: 5011 needs to be open
+---
+
+## Minimum Requirements
+
+To ensure optimal performance for running the BrinX AI Node, make sure your system meets the following minimum requirements:
+
+- **CPU**: 8 VCPU Cores
+- **Memory**: 16GB RAM
+- **Storage**: 300GB SSD
+- **GPU**: Optional (Having a GPU can significantly enhance performance and increase earnings)
+- **Port**: Port 5011 must be open
 
 ---
 
