@@ -5,6 +5,16 @@
 
 Welcome to the **BrinX AI** Relay and Worker Node setup guide! Follow these simple steps to install and configure your relay or worker node to support the BrinX AI network.
 
+![image](https://github.com/user-attachments/assets/14d02543-5279-415e-9833-8ed87a90c841)
+
+Minimum Requirements:
+
+▫️ CPU: 8 VCPU Cores
+▫️ Memory: 16GB RAM
+▫️ Storage: 300GB SSD
+▫️ GPU: Optional (A GPU can significantly boost performance and earnings)
+▫️ Port: 5011 needs to be open
+
 ---
 
 ## Worker Node Setup
@@ -55,7 +65,7 @@ sudo docker logs brinxai-worker-nodes-worker-1
 1. Visit [BrinX AI Worker Registration](https://workers.brinxai.com/register.php?ref=41b1a4ef)
 2. Create an account and log in
 3. Click **Add Worker Node** and enter your **Node Name** and **IP Address**
-4. ✅ **Done!** Your worker node is now registered and operational!
+4. **Done!** Your worker node is now registered and operational!
 
 ---
 
@@ -106,7 +116,7 @@ Start the relay node based on your architecture:
 1. Visit [BrinX AI Relay Registration](https://workers.brinxai.com/register.php?ref=41b1a4ef)
 2. Log in and click **Add Relay Node**
 3. Enter your node IP address, then click **Add Relay Node**
-4. ✅ **Done!** Your relay node is now registered and operational!
+4. **Done!** Your relay node is now registered and operational!
 
 ---
 
