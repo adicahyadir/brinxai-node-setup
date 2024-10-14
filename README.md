@@ -1,4 +1,3 @@
-Here's a well-organized and engaging README for the BrinX AI Relay and Worker Nodes installation on GitHub:
 
 ---
 
